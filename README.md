@@ -8,16 +8,16 @@ URL: https://www.pdbbind-plus.org.cn/casf
 
 ---
 # **TO_DO**
-- [] downloading the CASF data 
-- [] vina results script, running and results
-- [] gnina results script, running and results
-- [] gnina results with optimizing the ligand
-- [] MM openmm code, script, calculating binding energies, results
-- [] openmm binding energy calculation with optimizing
-- [] parmed pocket extracting 
-- [] QM mopac code, script, calculating binding energies, results
-- [] calculating other properties for our SF(scoring function):
-- [] QM/MM code, script, do the optimization and then calculatig binding energies, results
-- [] download other datasets (other proteins in PDBbind specially metalloproteins)
-- [] compare the results of diffrente scoring functions 
+- [ ] downloading the CASF data 
+- [ ] vina results script, running and results
+- [ ] gnina results script, running and results
+- [ ] gnina results with optimizing the ligand
+- [ ] MM openmm code, script, calculating binding energies, results
+- [ ] openmm binding energy calculation with optimizing
+- [ ] parmed pocket extracting 
+- [ ] QM mopac code, script, calculating binding energies, results
+- [ ] calculating other properties for our SF(scoring function):
+- [ ] QM/MM code, script, do the optimization and then calculatig binding energies, results
+- [ ] download other datasets (other proteins in PDBbind specially metalloproteins)
+- [ ] compare the results of diffrente scoring functions 
 
