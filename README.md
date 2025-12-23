@@ -6,10 +6,16 @@ save it in the "data" directory
 The Comparative Assessment of Scoring Functions (CASF) benchmark suite was employed to evaluate the performance of the scoring function under study. The CASF package (version 2016) was obtained from the official PDBbind-CN web portal (Wang, et al., J. Chem. Inf. Model., 2021) at the following public repository:
 URL: https://www.pdbbind-plus.org.cn/casf
 
+### then download gnina file
+and then save that in the "gnina" directory
+
 ---
 # **TO_DO**
-- [ ] downloading the CASF data 
-- [ ] vina results script, running and results
+- [x] downloading the CASF data 
+- [ ] vina:
+    1. [x] script
+    2. [x] run
+    3. [ ] results
 - [ ] gnina results script, running and results
 - [ ] gnina results with optimizing the ligand
 - [ ] MM openmm code, script, calculating binding energies, results
