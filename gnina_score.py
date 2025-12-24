@@ -154,10 +154,10 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  python script.py /mnt/d/casf/data/CASF-2016 ./gnina --score_type cnnaffinity
-  python script.py /mnt/d/casf/data/CASF-2016 ./gnina --score_type vina --minimize
-  python script.py /mnt/d/casf/data/CASF-2016 ./gnina --score_type cnnscore --minimize --output results.txt
-  python script.py /mnt/d/casf/data/CASF-2016 ./gnina --minimize  # Uses default cnnaffinity
+  python gnina_score.py CASF_data_path gnina_path --score_type cnnaffinity
+  python gnina_score.py CASF_data_path gnina_path --score_type vina --minimize
+  python gnina_score.py CASF_data_path gnina_path --score_type cnnscore --minimize --output results.txt
+  python gnina_score.py CASF_data_path gnina_path --minimize  # Uses default cnnaffinity
         """
     )
     
