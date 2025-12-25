@@ -19,12 +19,12 @@ and then save that in the "gnina" directory
 - [x] gnina results script, running and results
 - [x] gnina results with optimizing the ligand
 #
-- TODO want to calculate metalloprotein but the forcefield may make it slow ??? what to do [ ]
+- TODO want to calculate metalloprotein but the forcefield may make it slow ??? what to do?
 - [ ] MM:
-    1. openmm code [ ]
-    2. script [ ]
-    3. calculating binding energies [ ]
-    4. results [ ]
+    1. [ ] openmm code
+    2. [ ] script
+    3. [ ] calculating binding energies
+    4. [ ] results
 - [ ] openmm binding energy calculation with optimizing
 - [ ] parmed pocket extracting 
 - [ ] QM mopac code, script, calculating binding energies, results
