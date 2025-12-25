@@ -12,13 +12,19 @@ and then save that in the "gnina" directory
 ---
 # **TO_DO**
 - [x] downloading the CASF data 
-- [ ] vina:
+- [x] vina:
     1. [x] script
     2. [x] run
-    3. [ ] results
-- [ ] gnina results script, running and results
-- [ ] gnina results with optimizing the ligand
-- [ ] MM openmm code, script, calculating binding energies, results
+    3. [x] results
+- [x] gnina results script, running and results
+- [x] gnina results with optimizing the ligand
+#
+- TODO want to calculate metalloprotein but the forcefield may make it slow ??? what to do [ ]
+- [ ] MM:
+    1. openmm code [ ]
+    2. script [ ]
+    3. calculating binding energies [ ]
+    4. results [ ]
 - [ ] openmm binding energy calculation with optimizing
 - [ ] parmed pocket extracting 
 - [ ] QM mopac code, script, calculating binding energies, results
@@ -26,4 +32,3 @@ and then save that in the "gnina" directory
 - [ ] QM/MM code, script, do the optimization and then calculatig binding energies, results
 - [ ] download other datasets (other proteins in PDBbind specially metalloproteins)
 - [ ] compare the results of diffrente scoring functions 
-
